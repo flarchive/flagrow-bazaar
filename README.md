@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of flagrow/bazaar.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/bazaar) or the [upstream repository](https://github.com/extiverse/bazaar).
 
-**0** versions archived · Latest: [`0.4.1`](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.4.1) · License: `MIT` · Flarum: `^0.1.0-beta.9`
+**14** versions archived · Latest: [`0.4.1`](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.4.1) · License: `MIT` · Flarum: `^0.1.0-beta.9`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2018-11-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.0) |
+| `0.3.0-beta` | 2018-11-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.0-beta) |
+| `0.3.1` | 2018-11-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.1) |
+| `0.3.10` | 2019-04-25 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.10) |
+| `0.3.2` | 2018-11-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.2) |
+| `0.3.3` | 2018-11-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.3) |
+| `0.3.4` | 2018-11-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.4) |
+| `0.3.5` | 2018-11-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.5) |
+| `0.3.6` | 2018-11-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.6) |
+| `0.3.7` | 2018-11-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-bazaar/tree/archive/v0.3.7) |
+
+[View all 14 versions](https://github.com/flarchive/flagrow-bazaar/tags)
 
 Catalog entry: [packages/flagrow-bazaar.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-bazaar.json)
 
